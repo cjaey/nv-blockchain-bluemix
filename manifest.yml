@@ -1,8 +1,8 @@
 ---
 applications:
 - disk_quota: 1024M
-  host: nv-blockchain-cjy
-  name: nv-blockchain-cjy
+  host: nv-blockchain-bluemix-cjy
+  name: nv-blockchain-bluemix-cjy
   command: "node app.js"
   path: "."
   instances: 1
